@@ -36,8 +36,6 @@ The goal is to simulate how these algorithms schedule processes in an operating 
 
 ---
 
-## ✅ Conclusion
-
 This laboratory demonstrates how different CPU scheduling algorithms work and how they affect process execution order, turnaround time, and waiting time. Each algorithm has unique strengths and trade-offs, and understanding them is essential for designing efficient and fair operating systems.
 
 
